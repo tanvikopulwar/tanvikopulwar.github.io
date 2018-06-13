@@ -70,9 +70,34 @@ body{
     padding: 1em 0;
    
 }
+
+
 .name{
 	color:white!important;
 }
+img.logo-scrum {
+height :70px;
+}
+
+img.zoom{
+	display:block;
+	padding:30px;
+}
+
+img.zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+	padding-left : 50px;
+	padding-right : 50px;
+	opacity:1.0;
+	display:block;
+                
+}
+
+
+
+
 .w3ls-banner-left-info h4,.social-info h4{
     font-size: 1.2em;
     margin: 0;

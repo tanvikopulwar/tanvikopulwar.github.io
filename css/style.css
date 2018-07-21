@@ -21,7 +21,9 @@ html, body{
 body{
 	background:#FFFFFF;
 }
-
+.spring-width{
+	width:80px;
+}
 .list-icons {
   font-size: 5rem;
 	margin-right:10%;

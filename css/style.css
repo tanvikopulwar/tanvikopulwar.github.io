@@ -24,6 +24,8 @@ body{
 
 .list-icons {
   font-size: 5rem;
+	margin-right:10%;
+	margin-left:10%;
 }
 
 .list-icons .list-inline-item i:hover {
